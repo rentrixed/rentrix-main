@@ -1,0 +1,164 @@
+{
+  "Index": {
+    "meta_title": "SaaS टेम्पलेट - अपनी कंपनी को आसानी से बनाने और स्केल करने के लिए सही SaaS टेम्पलेट।",
+    "meta_description": "आपके SaaS बिजनेस के लिए एक निःशुल्क और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, जिसे React, TypeScript, Shadcn UI और Tailwind CSS के साथ बनाया गया है।"
+  },
+  "Navbar": {
+    "sign_in": "लॉग इन करें",
+    "sign_up": "साइन अप करें",
+    "product": "उत्पाद",
+    "docs": "दस्तावेज़",
+    "blog": "ब्लॉग",
+    "community": "समुदाय",
+    "company": "कंपनी"
+  },
+  "Hero": {
+    "follow_twitter": "@Ixartz को Twitter पर फॉलो करें",
+    "title": "अपनी कंपनी को आसानी से बनाने और स्केल करने के लिए सही <important>SaaS टेम्पलेट</important>।",
+    "description": "आपके SaaS बिजनेस के लिए एक निःशुल्क और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, जिसे React, TypeScript, Shadcn UI और Tailwind CSS के साथ बनाया गया है।",
+    "primary_button": "शुरू करें",
+    "secondary_button": "GitHub पर स्टार दें"
+  },
+  "Sponsors": {
+    "title": "प्रायोजित द्वारा"
+  },
+  "Features": {
+    "section_subtitle": "विशेषताएँ",
+    "section_title": "SaaS टेम्पलेट की पूरी क्षमता को अनलॉक करें",
+    "section_description": "आपके SaaS बिजनेस के लिए एक निःशुल्क और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, जिसे React, TypeScript, Shadcn UI और Tailwind CSS के साथ बनाया गया है।",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "आपके SaaS बिजनेस के लिए एक निःशुल्क और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, जिसे React, TypeScript, Shadcn UI और Tailwind CSS के साथ बनाया गया है।"
+  },
+  "Pricing": {
+    "section_subtitle": "विशेषताएँ",
+    "section_title": "SaaS टेम्पलेट की पूरी क्षमता को अनलॉक करें",
+    "section_description": "आपके SaaS बिजनेस के लिए एक निःशुल्क और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, जिसे React, TypeScript, Shadcn UI और Tailwind CSS के साथ बनाया गया है।",
+    "button_text": "शुरू करें"
+  },
+  "PricingPlan": {
+    "free_plan_name": "निःशुल्क",
+    "premium_plan_name": "प्रीमियम",
+    "enterprise_plan_name": "एंटरप्राइज",
+    "free_plan_description": "व्यक्तिगत उपयोग के लिए",
+    "premium_plan_description": "छोटी टीमों के लिए",
+    "enterprise_plan_description": "उद्योग के नेताओं के लिए",
+    "feature_team_member": "{number} सदस्य",
+    "feature_website": "{number} वेबसाइट",
+    "feature_storage": "{number} जीबी स्टोरेज",
+    "feature_transfer": "{number} टीबी ट्रांसफर",
+    "feature_email_support": "ईमेल सपोर्ट",
+    "plan_interval_month": "महीना",
+    "plan_interval_year": "वर्ष",
+    "next_renew_date": "आपकी सदस्यता {date} को नवीनीकृत होगी"
+  },
+  "FAQ": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+  },
+  "CTA": {
+    "title": "क्या आप तैयार हैं?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "button_text": "GitHub पर स्टार दें"
+  },
+  "Footer": {
+    "product": "उत्पाद",
+    "docs": "दस्तावेज़",
+    "blog": "ब्लॉग",
+    "community": "समुदाय",
+    "company": "कंपनी",
+    "terms_of_service": "सेवा की शर्तें",
+    "privacy_policy": "गोपनीयता नीति",
+    "designed_by": "डिजाइन किया गया <author></author>"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "आपके पास यह कार्रवाई करने के लिए पर्याप्त अनुमति नहीं है"
+  },
+  "SignIn": {
+    "meta_title": "लॉग इन करें",
+    "meta_description": "अपने खाते में आसानी से लॉग इन करें।"
+  },
+  "SignUp": {
+    "meta_title": "साइन अप करें",
+    "meta_description": "हमारे सहज साइन अप प्रक्रिया के माध्यम से आसानी से खाता बनाएं।"
+  },
+  "DashboardLayout": {
+    "home": "होम",
+    "todos": "टोडोस",
+    "members": "सदस्य",
+    "billing": "बिलिंग",
+    "settings": "सेटिंग्स"
+  },
+  "Dashboard": {
+    "meta_title": "SaaS टेम्पलेट डैशबोर्ड",
+    "meta_description": "आपके SaaS बिजनेस के लिए एक निःशुल्क और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, जिसे Next.js, TypeScript, Shadcn UI और Tailwind CSS के साथ बनाया गया है।"
+  },
+  "DashboardIndex": {
+    "title_bar": "डैशबोर्ड",
+    "title_bar_description": "आपके डैशबोर्ड में आपका स्वागत है",
+    "message_state_title": "शुरू करें",
+    "message_state_description": "आप इस पेज को <code>src/app/[locale]/(auth)/dashboard/page.tsx</code> फ़ाइल को संशोधित करके कस्टमाइज़ कर सकते हैं",
+    "message_state_button": "Stripe इंटीग्रेशन की ज़रूरत है? Next.js Boilerplate Pro देखें"
+  },
+  "UserProfile": {
+    "title_bar": "उपयोगकर्ता प्रोफ़ाइल",
+    "title_bar_description": "अपनी उपयोगकर्ता प्रोफ़ाइल देखें और प्रबंधित करें"
+  },
+  "OrganizationProfile": {
+    "title_bar": "संगठन प्रबंधन",
+    "title_bar_description": "अपने संगठन का प्रबंधन करें"
+  },
+  "Billing": {
+    "title_bar": "बिलिंग",
+    "title_bar_description": "अपनी बिलिंग और सदस्यता प्रबंधित करें",
+    "current_section_title": "वर्तमान योजना",
+    "current_section_description": "अपनी भुगतान योजना को समायोजित करें ताकि यह आपकी आवश्यकताओं को बेहतर ढंग से पूरा कर सके",
+    "manage_subscription_button": "सदस्यता प्रबंधित करें"
+  },
+  "BillingOptions": {
+    "current_plan": "वर्तमान योजना",
+    "upgrade_plan": "शुरू करें"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "भुगतान की पुष्टि",
+    "message_state_title": "भुगतान स्वीकृत",
+    "message_state_description": "आपका भुगतान सफलतापूर्वक संसाधित किया गया है। आपकी खरीदारी के लिए धन्यवाद!",
+    "message_state_button": "बिलिंग पर वापस जाएं"
+  },
+  "DataTable": {
+    "no_results": "कोई परिणाम नहीं।"
+  },
+  "Todos": {
+    "title_bar": "Todos सूची",
+    "title_bar_description": "अपनी todos सूची देखें और प्रबंधित करें",
+    "add_todo_button": "नया todo"
+  },
+  "TodoTableColumns": {
+    "open_menu": "मेनू खोलें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "title_header": "शीर्षक",
+    "message_header": "संदेश"
+  },
+  "AddTodo": {
+    "title_bar": "Todo जोड़ें",
+    "add_todo_section_title": "नया todo बनाएं",
+    "add_todo_section_description": "नया todo बनाने के लिए नीचे दिए गए फॉर्म को भरें"
+  },
+  "EditTodo": {
+    "title_bar": "Todo संपादित करें",
+    "edit_todo_section_title": "Todo संपादित करें",
+    "edit_todo_section_description": "Todo संपादित करने के लिए नीचे दिए गए फॉर्म को भरें"
+  },
+  "TodoForm": {
+    "title_label": "शीर्षक",
+    "title_description": "अपने todo के लिए एक वर्णनात्मक शीर्षक दर्ज करें।",
+    "message_title": "संदेश",
+    "message_description": "अपने todo के लिए एक विस्तृत संदेश दर्ज करें।",
+    "submit_button": "जमा करें"
+  }
+}
